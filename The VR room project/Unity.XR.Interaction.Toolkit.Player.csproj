@@ -104,8 +104,8 @@
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\Visual\IXRCustomReticleProvider.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TwoFingerDragGesture.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\CharacterControllerDriver.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TapGestureRecognizer.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARBaseGestureInteractable.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TapGestureRecognizer.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Simulation\XRSimulatedHMD.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\ScriptableSettings\ScriptableSettings.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRSocketInteractor.cs" />

@@ -52,22 +52,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\BNG Framework\Editor\PluginsEditor.cs" />
-     <Compile Include="Assets\BNG Framework\Editor\ClimbableEditor.cs" />
-     <Compile Include="Assets\BNG Framework\Editor\GrabPointEditor.cs" />
-     <Compile Include="Assets\BNG Framework\Editor\GrabPointTriggerEditor.cs" />
-     <Compile Include="Assets\BNG Framework\HandPoser\Editor\AutoPoserEditor.cs" />
-     <Compile Include="Assets\BNG Framework\HandPoser\Editor\HandPoserEditor.cs" />
-     <Compile Include="Assets\BNG Framework\Editor\GrabbableEditor.cs" />
-     <Compile Include="Assets\BNG Framework\Editor\ButtonEditor.cs" />
-     <Compile Include="Assets\BNG Framework\Editor\InputBridgeEditor.cs" />
-     <Compile Include="Assets\BNG Framework\HandPoser\Editor\HandPoseSaveAs.cs" />
-     <Compile Include="Assets\BNG Framework\Editor\IntegrationsEditor.cs" />
-     <Compile Include="Assets\BNG Framework\HandPoser\Editor\HandPoseEditor.cs" />
-     <Compile Include="Assets\BNG Framework\Editor\TrackedDeviceEditor.cs" />
      <Compile Include="Assets\Easy Grab VR\Editor\DefinesManager.cs" />
-     <Compile Include="Assets\BNG Framework\Editor\VRIFGrabpointUpdaterEditor.cs" />
-     <Compile Include="Assets\BNG Framework\Editor\LeverEditor.cs" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -718,6 +703,10 @@
       <Project>{88875f6d-865d-cea6-3d58-c1201d52eb6d}</Project>
       <Name>Unity.VisualStudio.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Sysroot.Linux_x86_64.csproj">
+      <Project>{b55d40e0-97a9-c52c-8f37-d46a8ffbdb9f}</Project>
+      <Name>Unity.Sysroot.Linux_x86_64</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.XR.Management.Editor.csproj">
       <Project>{4d324e14-1afc-8898-5afd-a849f6d50923}</Project>
       <Name>Unity.XR.Management.Editor</Name>
@@ -766,6 +755,10 @@
       <Project>{4d61403c-14a5-8745-81b8-10f97d418dac}</Project>
       <Name>Unity.XR.CoreUtils.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Toolchain.Macos-x86_64-Linux-x86_64.csproj">
+      <Project>{b079d53f-c9d7-4083-7403-63625a1c2856}</Project>
+      <Name>Unity.Toolchain.Macos-x86_64-Linux-x86_64</Name>
+    </ProjectReference>
     <ProjectReference Include="UnityEngine.XR.LegacyInputHelpers.csproj">
       <Project>{cadaf931-6070-6a4f-bc83-7760f43fe0b0}</Project>
       <Name>UnityEngine.XR.LegacyInputHelpers</Name>
@@ -790,17 +783,21 @@
       <Project>{32678d9e-7265-fc12-47b1-5410d5bb94ab}</Project>
       <Name>Unity.XR.Oculus.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Editor.csproj">
-      <Project>{b774510c-6f8c-e395-fc1a-a1a624edfd7d}</Project>
-      <Name>Unity.XR.Interaction.Toolkit.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="UnityEditor.SpatialTracking.csproj">
       <Project>{8f9c2392-6aa9-83d6-17fa-762ff8c89ae8}</Project>
       <Name>UnityEditor.SpatialTracking</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Editor.csproj">
+      <Project>{b774510c-6f8c-e395-fc1a-a1a624edfd7d}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.XR.Oculus.csproj">
       <Project>{365b42d3-93ef-ddcf-83e4-95a37cf75b46}</Project>
       <Name>Unity.XR.Oculus</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.SysrootPackage.Editor.csproj">
+      <Project>{91a08f8e-9334-78de-5610-c810d84d370d}</Project>
+      <Name>Unity.SysrootPackage.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

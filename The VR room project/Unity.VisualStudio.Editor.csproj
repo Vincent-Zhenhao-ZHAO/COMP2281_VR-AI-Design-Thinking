@@ -81,8 +81,8 @@
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpListener.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Messaging\TcpClient.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Image.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectProperties.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Solution.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\ProjectProperties.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\FileIOProvider.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\ProjectGeneration\GUIDProvider.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.11\Editor\Testing\TestStatusAdaptor.cs" />
