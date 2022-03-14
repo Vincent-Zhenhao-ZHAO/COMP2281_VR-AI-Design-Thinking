@@ -7,7 +7,20 @@
 1\. Clone the repository (if you are a new contributor)
 
     git clone https://github.com/Vincent-Zhenhao-ZHAO/COMP2281_VR-AI-Design-Thinking
+2\. Necessary Assets and packages:
 
+    Assets:
+    -   8K Skybox Pack Free
+    -   Big Furniture Pack
+    -   Easy Grab VR
+    -   Office Room Furniture
+    -   Wooden Floor Materials
+    
+    Packages:
+    -   Oculus XR Plugin
+    -   XR Interaction Toolkit
+    -   XR Plugin Management
+    
 2\. The VR room contains all functions need for the VR Design Thinking Process. Three different room: BrainStorming room, Focus On User room and relax room.
     
     - BrainStorming Room: Pen, whiteboard, table, desk and sofa. Player able to grab pen and write things on the whiteboard. There are some structures provided
