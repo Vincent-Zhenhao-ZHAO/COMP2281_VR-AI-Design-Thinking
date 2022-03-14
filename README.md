@@ -16,8 +16,16 @@ Durham University Software Engineering (COMP2281) - Group 24's Project for IBM: 
     - Relax room: sofa, sink. Player able to rest in this room.
     
 3\. How functions work in the unity:
+
     - Pen: There is a prefab called pen in asset/whiteboard. You can just drop it in the scence and use it without set anything. When you click the feature of pen,
       you can set the size of pen as well.
     - Whiteboard: There is a prefab called whiteboard in asset/whiteboard. You can just drop it in the scence and use it without set anything. You can also set the       size as well.
-    - 
+    - notes on the wall: if you want to change the information on the wall, just click the text, it will show left side, then click button/text. Then change things       on right side.
+    
+## For Players:
+    -   Required Equipment: Oculus Quest2 with at least 200MB memory
+    -   Step to use the VR application:
+        -   Go to appication -> unknown source -> VR room Project
+        -   Use Controller to move around and visit each room, follow instructions on the wall to finish the IBM Design Thinking process.
+    
     
