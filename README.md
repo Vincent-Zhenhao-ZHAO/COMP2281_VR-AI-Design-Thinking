@@ -20,8 +20,10 @@
 
     - Pen: There is a prefab called pen in asset/whiteboard. You can just drop it in the scence and use it without set anything. When you click the feature of pen,
       you can set the size of pen as well.
-    - Whiteboard: There is a prefab called whiteboard in asset/whiteboard. You can just drop it in the scence and use it without set anything. You can also set the       size as well.
-    - notes on the wall: if you want to change the information on the wall, just click the text, it will show left side, then click button/text. Then change things       on right side.
+    - Whiteboard: There is a prefab called whiteboard in asset/whiteboard. You can just drop it in the scence and use it without set anything. 
+        You can also set the size as well.
+    - notes on the wall: if you want to change the information on the wall, just click the text, it will show left side, then click button/text. 
+      Then change things on right side.
 
 4\. How to export the porject into Oculus Quest 2:
 
