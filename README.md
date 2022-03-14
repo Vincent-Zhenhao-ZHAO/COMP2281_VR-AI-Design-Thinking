@@ -1,5 +1,6 @@
-# COMP2281_VR-AI-Design-Thinking
-Durham University Software Engineering (COMP2281) - Group 24's Project for IBM: VR and AI Design Thinking.
+## COMP2281_VR-AI-Design-Thinking
+#   Durham University Software Engineering (COMP2281) - Group 24's Project for IBM: VR and AI Design Thinking.
+#   
 
 ## For Contributors
 
@@ -21,7 +22,13 @@ Durham University Software Engineering (COMP2281) - Group 24's Project for IBM: 
       you can set the size of pen as well.
     - Whiteboard: There is a prefab called whiteboard in asset/whiteboard. You can just drop it in the scence and use it without set anything. You can also set the       size as well.
     - notes on the wall: if you want to change the information on the wall, just click the text, it will show left side, then click button/text. Then change things       on right side.
-    
+
+4\. How to export the porject into Oculus Quest 2:
+
+    -   Connect laptop with Oculus Quest 2 and allow data access from Oculus Quest 2.
+    -   Go to Unity -> file -> Building Setting -> Select Android -> Run Device Select Oculus Quest 2 -> Build and Run
+    -   Open Oculus Quest 2 and follow the Player section.
+
 ## For Players:
     -   Required Equipment: Oculus Quest2 with at least 200MB memory
     -   Step to use the VR application:
