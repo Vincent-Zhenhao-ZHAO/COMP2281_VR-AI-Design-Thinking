@@ -7,7 +7,7 @@
 1\. Clone the repository (if you are a new contributor)
 
     git clone https://github.com/Vincent-Zhenhao-ZHAO/COMP2281_VR-AI-Design-Thinking
-2\. Necessary Assets and packages:
+2\. Environment set up:
 
     Assets:
     -   8K Skybox Pack Free
@@ -20,6 +20,9 @@
     -   Oculus XR Plugin
     -   XR Interaction Toolkit
     -   XR Plugin Management
+    
+    Unity version: at least 2020.3.22f1
+    
     
 2\. The VR room contains all functions need for the VR Design Thinking Process. Three different room: BrainStorming room, Focus On User room and relax room.
     
