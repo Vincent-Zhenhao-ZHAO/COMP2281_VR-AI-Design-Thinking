@@ -174,7 +174,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.DefaultCompany.TheVRroomproject
-    Standalone: com.BeardedNinjaGames.VRInteractionFramework
+    Standalone: com.DefaultCompany.TheVRroomproject
   buildNumber:
     Standalone: 0
     iPhone: 0
