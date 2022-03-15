@@ -47,7 +47,7 @@
     -   Go to Unity -> file -> Building Setting -> Select Android -> Run Device Select Oculus Quest 2 -> Build and Run
     -   Open Oculus Quest 2 and follow the Player section.
 
-## For Players:
+## For Users:
     -   Required Equipment: Oculus Quest2 with at least 200MB memory
     -   Step to use the VR application:
         -   Go to appication -> unknown source -> VR room Project
