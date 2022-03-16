@@ -7,28 +7,15 @@ public class Password : MonoBehaviour
 
 {
 
-    
-    private string password;
-    // Start is called before the first frame update
-    void Start()
-    {
 
-    }
+    private string _password;
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-    
     public void ReadPassword(string s)
     {
-        password = s;
-        if (password == "password")
+        _password = s;
+        if (_password == "password")
         {
-            Debug.Log(password);
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-
         }
 
     }

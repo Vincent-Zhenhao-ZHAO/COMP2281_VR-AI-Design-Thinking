@@ -3297,8 +3297,8 @@ MonoBehaviour:
   m_Camera: {fileID: 848231590}
   m_OriginBaseGameObject: {fileID: 718377895}
   m_CameraFloorOffsetObject: {fileID: 1214084413}
-  m_RequestedTrackingOriginMode: 0
-  m_CameraYOffset: 1.1176
+  m_RequestedTrackingOriginMode: 1
+  m_CameraYOffset: 0
 --- !u!4 &718377897
 Transform:
   m_ObjectHideFlags: 0
@@ -5246,8 +5246,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea6b476eece9cdb4aa0175a7c4849a80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  STT: {fileID: 1549403902}
-  _note: {fileID: 338111668}
 --- !u!1 &1243776003
 GameObject:
   m_ObjectHideFlags: 0
@@ -5737,9 +5735,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4667f09765e356b409c2c444fcd04f3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _serviceUrl: https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/10a7d5a2-684c-4515-af28-cc1283654d92
-  _iamApikey: orn-o-EjHf7hzSVeSEQ7fnQNw6oa02CyxvOYvHBN5vwe
-  _recognizeModel: en-GB_BroadbandModel
 --- !u!4 &1549403904
 Transform:
   m_ObjectHideFlags: 0

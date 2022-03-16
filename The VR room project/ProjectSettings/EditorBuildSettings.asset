@@ -5,23 +5,20 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Username.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Password.unity
+    guid: e0be4269acd33e749bf71fd921fc8761
+  - enabled: 1
+    path: Assets/Scenes/loadWelcomeScreen.unity
+    guid: 5252dd1225c2141408bfa50926998565
+  - enabled: 1
+    path: Assets/Scenes/SettingScene.unity
+    guid: 2b0adc592939f41ac94414c9f0d2df75
+  - enabled: 1
+    path: Assets/Scenes/VRScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ca02d8cdabfec48d7b120179761f4f5b,

@@ -361,8 +361,8 @@
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\Assistant\V1\Model\CounterexampleCollection.cs" />
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\TextToSpeech\V1\Model\Pronunciation.cs" />
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\SpeechToText\V1\Model\AcousticModels.cs" />
-     <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\Assistant\V1\Model\RuntimeResponseGenericRuntimeResponseTypeSuggestion.cs" />
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\CompareComply\V1\Model\DocCounts.cs" />
+     <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\Assistant\V1\Model\RuntimeResponseGenericRuntimeResponseTypeSuggestion.cs" />
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\CompareComply\V1\Model\TableHeaders.cs" />
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\CompareComply\V1\Model\ClassifyReturn.cs" />
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\VisualRecognition\V4\Model\ObjectDetail.cs" />
@@ -474,8 +474,8 @@
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\Discovery\V1\Model\CollectionDiskUsage.cs" />
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\NaturalLanguageUnderstanding\V1\Model\AnalysisResultsUsage.cs" />
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\Discovery\V1\Model\QueryNoticesResult.cs" />
-     <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\LanguageTranslator\V3\LanguageTranslatorService.cs" />
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\Discovery\V2\DiscoveryService.cs" />
+     <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\LanguageTranslator\V3\LanguageTranslatorService.cs" />
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\CompareComply\V1\Model\BatchStatus.cs" />
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\Assistant\V1\Model\DialogNodeAction.cs" />
      <Compile Include="Assets\unity-sdk-5.0.1\Scripts\Services\NaturalLanguageUnderstanding\V1\Model\SemanticRolesResultObject.cs" />
