@@ -27,7 +27,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_22;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;INPUT_SYSTEM_1_1_OR_NEWER;LIH_PRESENT_V2API;LIH_PRESENT;ANIMATION_MODULE_PRESENT;PHYSICS2D_MODULE_PRESENT;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_22;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_OSX;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_SPATIALTRACKING;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;INPUT_SYSTEM_1_1_OR_NEWER;LIH_PRESENT_V2API;LIH_PRESENT;ANIMATION_MODULE_PRESENT;PHYSICS2D_MODULE_PRESENT;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn></NoWarn>
@@ -53,142 +53,142 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Controllers\XRControllerRecorder.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Simulation\XRSimulatedHMDState.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\TouchModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\CardinalUtility.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARBaseGestureInteractable.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\LocomotionProvider.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\XR\XRRig.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\PinchGestureRecognizer.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\XRHelpURLConstants.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\DragGestureRecognizer.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Controllers\ActionBasedController.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\ScriptableSettings\ScriptableSettingsPathAttribute.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Controllers\XRControllerState.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRBaseControllerInteractor.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\DragGesture.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\IXRSelectInteractable.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\Visual\XRInteractorLineVisual.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactors\ARGestureInteractor.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\IXRHoverInteractor.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Teleportation\TeleportationArea.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRBaseInteractor.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Continuous\ActionBasedContinuousTurnProvider.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARSelectionInteractable.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TwoFingerDragGestureRecognizer.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\CharacterControllerDriver.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\GestureRecognizer.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\GestureTouchesUtility.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARPlacementInteractable.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Teleportation\TeleportationAnchor.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TwoFingerDragGesture.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\XRInteractionEvents.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TwistGestureRecognizer.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Teleportation\TeleportationAnchor.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\XRBaseInteractable.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\TrackedDevicePhysicsRaycaster.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\XRInteractionManager.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Controllers\XRController.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Controllers\XRBaseController.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Teleportation\BaseTeleportationInteractable.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\InputActionManager.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\Pooling\LinkedPool.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\IXRActivateInteractor.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\ScriptableSettings\ReflectionUtils.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\Visual\XRTintInteractableVisual.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\XR\XRRig.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Simulation\XRSimulatedControllerState.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\IXRInteractor.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AssemblyInfo.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TwistGesture.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\Gesture.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\Visual\IXRCustomReticleProvider.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TwoFingerDragGesture.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\IXRActivateInteractable.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TapGesture.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\LocomotionProvider.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Teleportation\BaseTeleportationInteractable.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\DragGesture.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\SnapTurn\ActionBasedSnapTurnProvider.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARSelectionInteractable.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\ProjectPath.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\GestureTransformationUtility.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Controllers\XRControllerRecording.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\Pooling\PooledObject.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Continuous\ContinuousTurnProviderBase.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\XRGrabInteractable.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\XR\SortingHelpers.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\XRGrabInteractable.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\UIInputModule.Events.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\JoystickModel.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARScaleInteractable.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Composites\FallbackComposite.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Interactions\SectorInteraction.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Layers\InteractionLayerSettings.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\GestureTransformationUtility.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Teleportation\TeleportationProvider.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\IXRHoverInteractable.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\XRInteractionManager.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\TrackedDeviceEventData.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\XR\GizmoHelpers.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARPlacementInteractable.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\LocomotionSystem.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\EditorComponentLocatorUtility.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\LocomotionSystem.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Continuous\DeviceBasedContinuousMoveProvider.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\XRInteractionUpdateOrder.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRRayInteractor.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\GamepadModel.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Simulation\SimulatedInputLayoutLoader.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\UIInputModule.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\XRUIInputModule.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\XR\InputHelpers.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Simulation\XRSimulatedHMDState.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\TouchModel.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\CardinalUtility.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\XR\XRRig.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\PinchGestureRecognizer.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\XRHelpURLConstants.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\DragGesture.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\IXRSelectInteractable.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\IXRHoverInteractor.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRBaseInteractor.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Continuous\ActionBasedContinuousTurnProvider.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARSelectionInteractable.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TwoFingerDragGestureRecognizer.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\GestureTouchesUtility.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TwistGestureRecognizer.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\TrackedDevicePhysicsRaycaster.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\XRInteractionManager.deprecated.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Controllers\XRController.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\InputActionManager.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Simulation\XRSimulatedControllerState.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\IXRInteractor.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\Gesture.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\CharacterControllerDriver.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARBaseGestureInteractable.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TapGestureRecognizer.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Simulation\XRSimulatedHMD.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\ScriptableSettings\ScriptableSettings.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRSocketInteractor.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\IXRActivateInteractable.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\TapGesture.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\LocomotionProvider.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\PinchGesture.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Teleportation\BaseTeleportationInteractable.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRRayInteractor.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\DragGesture.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARRotationInteractable.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\SnapTurn\ActionBasedSnapTurnProvider.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\TriggerContactMonitor.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Controllers\ActionBasedController.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARSelectionInteractable.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\ProjectPath.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\IXRSelectInteractor.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\GestureTransformationUtility.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Continuous\DeviceBasedContinuousTurnProvider.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARAnnotationInteractable.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Layers\InteractionLayerMask.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Controllers\XRControllerRecording.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\Visual\XRInteractorReticleVisual.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\Pooling\PooledObject.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\InputActionPropertyExtensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\XRInteractionEvents.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Continuous\ContinuousTurnProviderBase.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Controllers\XRBaseController.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Controllers\XRControllerRecording.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\XRGrabInteractable.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\MouseModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\XR\SortingHelpers.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARTranslationInteractable.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\XRGrabInteractable.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRDirectInteractor.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\UIInputModule.Events.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\GestureRecognizer.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRDirectInteractor.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\JoystickModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARScaleInteractable.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\XRSimpleInteractable.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Controllers\XRControllerState.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Composites\FallbackComposite.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactors\ARGestureInteractor.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Interactions\SectorInteraction.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\SnapTurn\DeviceBasedSnapTurnProvider.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Layers\InteractionLayerSettings.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\GestureTransformationUtility.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Teleportation\TeleportationProvider.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\IXRHoverInteractable.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\XRInteractionManager.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\XRUIInputModule.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\ScriptableSettings\TypeExtensions.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\TrackedDeviceEventData.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRBaseInteractor.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\XR\GizmoHelpers.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Continuous\ActionBasedContinuousMoveProvider.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\XRHelpURLConstants.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Interactables\ARPlacementInteractable.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\LocomotionSystem.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\XRBaseInteractable.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactables\IXRInteractable.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Utilities\EditorComponentLocatorUtility.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\LocomotionSystem.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRBaseControllerInteractor.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRSocketInteractor.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Continuous\DeviceBasedContinuousMoveProvider.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\XRInteractionUpdateOrder.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Simulation\XRDeviceSimulator.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Interactors\XRRayInteractor.deprecated.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\SnapTurn\SnapTurnProviderBase.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Locomotion\Continuous\ContinuousMoveProviderBase.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\TrackedDeviceGraphicRaycaster.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Simulation\XRSimulatedController.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\TrackedDeviceModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\GamepadModel.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Interaction\Attributes\CanSelectMultipleAttribute.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\AR\Gestures\Gesture.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Inputs\Simulation\SimulatedInputLayoutLoader.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\UIInputModule.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\XRUIInputModule.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\UI\TrackedDeviceModel.deprecated.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\XR\InputHelpers.cs" />
      <None Include="Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.0\Runtime\Unity.XR.Interaction.Toolkit.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -216,6 +216,12 @@
  </Reference>
  <Reference Include="UnityEngine.ClothModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ClusterInputModule">
+ <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ClusterRendererModule">
+ <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
@@ -370,6 +376,9 @@
  <Reference Include="UnityEngine.VideoModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VideoModule.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.VirtualTexturingModule">
+ <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.WindModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.WindModule.dll</HintPath>
  </Reference>
@@ -431,19 +440,25 @@
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Newtonsoft.Json">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.15.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="NSubstitute">
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Assets/unity-sdk-5.0.1/Plugins/NSubstitute.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Antlr3.Runtime">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.15.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="unityplastic">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.15.1/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ </Reference>
+ <Reference Include="websocket-sharp">
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Assets/unity-sdk-core-1.2.2/Plugins/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="log4netPlastic">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.15.1/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

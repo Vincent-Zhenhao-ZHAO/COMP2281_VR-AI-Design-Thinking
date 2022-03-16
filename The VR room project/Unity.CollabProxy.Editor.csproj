@@ -27,7 +27,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_22;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_22;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_OSX;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_SPATIALTRACKING;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn></NoWarn>
@@ -52,150 +52,150 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\IMainView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\IModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\IStartView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Utilities\MenuUtilities.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\Menus\FloatingMenuItem.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\Adapters\IAdapter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\LearnMoreVisualHelper.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\IconButton.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\SearchBar.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\EnabledVisuals.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Utilities\Threading.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\MainPageView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\HistoryModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Presenters\StartPresenter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\ChangeListElements\ToggleableChangeListElement.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\CloudCollabService.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\TextButton.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\ChangesTabPageView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\IHistoryModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Utilities\OpenLinksUtility.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Presenters\IHistoryPresenter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\Menus\FloatingMenu.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\UserInterface\Bootstrap.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\MainModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Presenters\IChangesPresenter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\CloudCollabSettingsProvider.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\IHistoryView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\HistoryTabPageView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\IMainModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\ChangeListElements\ChangeListElement.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\UserInterface\ToolbarButton.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\ChangeListElements\BaseChangeListElement.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\AlertBox.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\StartPageView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\BetterTextField.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\CloudCollabVisuals.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\Structures\IChangeEntryData.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\Structures\ProgressInfo.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Presenters\IPresenter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\Structures\ErrorInfo.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\ErrorPageView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\ChangesGroupHeader.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Common\ScriptableObjectSingleton.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\IView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\StringAssets.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\PageComponent.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Utilities\StringUtility.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\HistoryEntryComponent.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Common\ArrayContainer.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\Menus\FloatingDialogue.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Settings\CollabSettingsManager.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\IChangesView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\Adapters\ListAdapters\ToggleableChangeListAdapter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Common\StringArrayContainer.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\UserInterface\CollaborateWindow.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Presenters\HistoryPresenter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\CloudCollabServiceIdentifier.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\Providers\Collab.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\TabPageComponent.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Common\SerializableDictionary.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\CloudCollabTopMenu.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\ListNotice.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\IVisuals.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\Structures\HistoryEntry.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\Api\ISourceControlProvider.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\IChangesModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\Adapters\ListAdapters\ConflictedChangeListAdapter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\CloudCollabEnabler.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\ChangesModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\UserInterface\WindowCache.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\StartModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Settings\CollabSettingsProvider.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Presenters\IMainPresenter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\DisabledVisuals.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Presenters\ChangesPresenter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\TabView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\Adapters\ListAdapters\HistoryEntryChangeListAdapter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\UiConstants.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Common\LocationAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\ProgressView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Presenters\IStartPresenter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\ChangeListElements\HistoryChangeListElement.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\Adapters\IAdapterObserver.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\IStartModel.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\ChangeEntryGroup.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Settings\CollabSetting.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\Structures\IChangeEntry.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Settings\CollabSettings.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\Analytics\EditorGameServiceAnalyticsSender.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Views\Adapters\ListAdapters\BaseListAdapter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\Enums\ProjectStatus.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\ChangeListElements\ConflictedChangeListElement.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\Structures\ChangeEntry.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\Structures\IHistoryEntry.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Presenters\MainPresenter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\IconTextButton.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\Structures\IErrorInfo.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\Paginator.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Properties\AssemblyInfo.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\TopBar.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Utilities\ExtensionMethods.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Components\AdapterListView.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Models\Structures\IProgressInfo.cs" />
-     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Utilities\TimeStamp.cs" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\ChangesTabPageView.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\ProgressView.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\HistoryEntryComponent.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\StartPageView.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\FloatingMenuItem.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\HistoryEntryComponent.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\ErrorPageView.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\ChangesTabPageView.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\UXML\CollabProjectSettingsEnabled.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\ListNotice.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\StartPageView.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\AlertBox.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\USS\ServicesProjectSettingsCommon.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\FloatingMenu.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\BetterTextField.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\AlertBox.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\TabView.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\TopBar.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\FloatingDialogue.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Unity.CollabProxy.Editor.asmdef" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\styles.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\TopBar.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\Paginator.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\ProgressView.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\SearchBar.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\ChangesGroupHeader.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\MainPageView.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\Paginator.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\IconTextButton.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\ToggleableChangeListElement.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\IconButton.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\TextButton.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\HistoryTabPageView.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\BaseChangeListElement.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\UXML\CollabProjectSettingsDisabled.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\BaseChangeListElement.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\ListNotice.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\main-window.uxml" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Styles\ChangesGroupHeader.uss" />
-     <None Include="Library\PackageCache\com.unity.collab-proxy@1.13.5\Editor\Collaborate\Assets\Layouts\MainPageView.uxml" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\IStartView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\Adapters\IAdapter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\SearchBar.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Utilities\Threading.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\CloudCollabService.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\TextButton.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Presenters\IHistoryPresenter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\MainModel.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\CloudCollabSettingsProvider.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\IHistoryView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\UserInterface\ToolbarButton.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\StartPageView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\CloudCollabVisuals.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\Structures\ProgressInfo.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Presenters\IPresenter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\Structures\ErrorInfo.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\ErrorPageView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\ChangesGroupHeader.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Common\ScriptableObjectSingleton.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\IView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Utilities\StringUtility.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Common\ArrayContainer.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Settings\CollabSettingsManager.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\IChangesView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Common\SerializableDictionary.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\Structures\HistoryEntry.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\Api\ISourceControlProvider.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\Adapters\ListAdapters\ConflictedChangeListAdapter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\UserInterface\WindowCache.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\StartModel.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Settings\CollabSettingsProvider.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Presenters\IMainPresenter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Presenters\ChangesPresenter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\TabView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\Adapters\ListAdapters\HistoryEntryChangeListAdapter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\UiConstants.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Common\LocationAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\ProgressView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\ChangeListElements\HistoryChangeListElement.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\IStartModel.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\ChangeEntryGroup.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Settings\CollabSetting.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\Structures\IChangeEntry.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\Structures\IErrorInfo.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\Paginator.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\TopBar.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Utilities\ExtensionMethods.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\IMainView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\IModel.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Utilities\MenuUtilities.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\Menus\FloatingMenuItem.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\LearnMoreVisualHelper.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\IconButton.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\EnabledVisuals.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\MainPageView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\HistoryModel.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Presenters\StartPresenter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\ChangeListElements\ToggleableChangeListElement.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\ChangesTabPageView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\IHistoryModel.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Utilities\OpenLinksUtility.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\Menus\FloatingMenu.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\UserInterface\Bootstrap.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Presenters\IChangesPresenter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\HistoryTabPageView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\IMainModel.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\ChangeListElements\ChangeListElement.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\ChangeListElements\BaseChangeListElement.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\AlertBox.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\BetterTextField.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\Structures\IChangeEntryData.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\StringAssets.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\PageComponent.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\HistoryEntryComponent.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\Menus\FloatingDialogue.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\Adapters\ListAdapters\ToggleableChangeListAdapter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Common\StringArrayContainer.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\UserInterface\CollaborateWindow.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Presenters\HistoryPresenter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\CloudCollabServiceIdentifier.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\Providers\Collab.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\TabPageComponent.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\CloudCollabTopMenu.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\ListNotice.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\IVisuals.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\IChangesModel.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\CloudCollabEnabler.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\ChangesModel.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\DisabledVisuals.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Presenters\IStartPresenter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\Adapters\IAdapterObserver.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Settings\CollabSettings.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\Analytics\EditorGameServiceAnalyticsSender.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Views\Adapters\ListAdapters\BaseListAdapter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\Enums\ProjectStatus.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\ChangeListElements\ConflictedChangeListElement.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\Structures\ChangeEntry.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\Structures\IHistoryEntry.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Presenters\MainPresenter.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\IconTextButton.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Properties\AssemblyInfo.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Components\AdapterListView.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Models\Structures\IProgressInfo.cs" />
+     <Compile Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Utilities\TimeStamp.cs" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\ChangesTabPageView.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\ProgressView.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\HistoryEntryComponent.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\StartPageView.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\FloatingMenuItem.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\HistoryEntryComponent.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\ErrorPageView.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\ChangesTabPageView.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\UXML\CollabProjectSettingsEnabled.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\ListNotice.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\StartPageView.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\AlertBox.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\USS\ServicesProjectSettingsCommon.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\FloatingMenu.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\BetterTextField.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\AlertBox.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\TabView.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\TopBar.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\FloatingDialogue.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Unity.CollabProxy.Editor.asmdef" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\styles.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\TopBar.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\Paginator.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\ProgressView.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\SearchBar.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\ChangesGroupHeader.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\MainPageView.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\Paginator.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\IconTextButton.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\ToggleableChangeListElement.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\IconButton.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\TextButton.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\HistoryTabPageView.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\BaseChangeListElement.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\EditorGameService\SettingsProviderVisuals\UXML\CollabProjectSettingsDisabled.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\BaseChangeListElement.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\ListNotice.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\main-window.uxml" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Styles\ChangesGroupHeader.uss" />
+     <None Include="Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Layouts\MainPageView.uxml" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -446,22 +446,28 @@
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Newtonsoft.Json">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.15.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="NSubstitute">
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Assets/unity-sdk-5.0.1/Plugins/NSubstitute.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Antlr3.Runtime">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.15.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="unityplastic">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.15.1/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ </Reference>
+ <Reference Include="websocket-sharp">
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Assets/unity-sdk-core-1.2.2/Plugins/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="log4netPlastic">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.15.1/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

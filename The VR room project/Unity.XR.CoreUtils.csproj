@@ -27,7 +27,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_22;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;INCLUDE_PHYSICS_MODULE;INCLUDE_UGUI;INCLUDE_INPUT_SYSTEM;INCLUDE_LEGACY_INPUT_HELPERS;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_22;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_OSX;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_SPATIALTRACKING;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;INCLUDE_PHYSICS_MODULE;INCLUDE_UGUI;INCLUDE_INPUT_SYSTEM;INCLUDE_LEGACY_INPUT_HELPERS;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn></NoWarn>
@@ -52,55 +52,55 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\QuaternionExtensions.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\GuidExtensions.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\Vector3Extensions.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\GuidUtil.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\XRLoggingUtils.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\GeometryUtils.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Attributes\FlagsPropertyAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\ScriptableSettingsBase.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\OnDestroyNotifier.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\Vector2Extensions.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\TransformExtensions.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\ComponentUtils.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\LayerMaskExtensions.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\SerializableGuid.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\XROrigin.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\MaterialUtils.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\HashSetExtensions.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\StopwatchExtensions.cs" />
+     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\ListExtensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\HashCodeUtil.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\StringExtensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\MonoBehaviourExtensions.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\QuaternionExtensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\CameraExtensions.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\GuidExtensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Attributes\EnumDisplayAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\Vector3Extensions.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\GuidUtil.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\BoundsExtensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\BoundsUtils.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\CollectionExtensions.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\XRLoggingUtils.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\TypeExtensions.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\GeometryUtils.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Attributes\FlagsPropertyAttribute.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\TextureUtils.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\DebugDraw.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\UndoBlock.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\ReflectionUtils.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\PoseExtensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\ObjectPool.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\ScriptableSettingsBase.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\OnDestroyNotifier.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\GameObjectExtensions.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\Vector2Extensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Attributes\ReadOnlyAttribute.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\ScriptableSettings.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\TransformExtensions.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\ComponentUtils.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\AssemblyInfo.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\LayerMaskExtensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\SerializableGuidUtil.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\SerializableGuid.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\NativeArrayUtils.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\XROrigin.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\ARTrackablesParentTransformChangedEventArgs.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\DictionaryExtensions.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\MaterialUtils.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\CachedComponentFilter.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\HashSetExtensions.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\StopwatchExtensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\MathUtility.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\GameObjectUtils.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\GUI\ScreenGUIUtils.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\CollectionPool.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\EnumValues.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Attributes\ScriptableSettingsPathAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Extensions\ListExtensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\UnityObjectUtils.cs" />
      <None Include="Library\PackageCache\com.unity.xr.core-utils@2.0.0\Runtime\Unity.XR.CoreUtils.asmdef" />
  <Reference Include="UnityEngine">
@@ -129,6 +129,12 @@
  </Reference>
  <Reference Include="UnityEngine.ClothModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ClusterInputModule">
+ <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ClusterRendererModule">
+ <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
@@ -283,6 +289,9 @@
  <Reference Include="UnityEngine.VideoModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VideoModule.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.VirtualTexturingModule">
+ <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.WindModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.WindModule.dll</HintPath>
  </Reference>
@@ -344,19 +353,25 @@
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Newtonsoft.Json">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.15.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="NSubstitute">
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Assets/unity-sdk-5.0.1/Plugins/NSubstitute.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Antlr3.Runtime">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.15.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="unityplastic">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.15.1/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ </Reference>
+ <Reference Include="websocket-sharp">
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Assets/unity-sdk-core-1.2.2/Plugins/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="log4netPlastic">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.collab-proxy@1.15.1/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/Users/vincentzhao/Desktop/Game making/unity vr/The VR room project/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/vincentzhao/Desktop/SE_project_ideas/COMP2281_VR-AI-Design-Thinking/The VR room project/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.22f1/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
