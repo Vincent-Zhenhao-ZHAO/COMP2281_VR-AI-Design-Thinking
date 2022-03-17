@@ -29,11 +29,6 @@ public class TextChangeScript : MonoBehaviour
         
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-    }
-
     // checking keywords only
     // public void CheckColour()
     // {
@@ -97,6 +92,4 @@ public class TextChangeScript : MonoBehaviour
             ButtonInt = 0;
         }
     }
-
-    
 }
