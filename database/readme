@@ -1,4 +1,5 @@
 Run node app.js first in the terminal
-Open the website enter localhost:3000/add-user to update the user info
-localhost:3000/add-room to update the room info
-localhost:3000/export-content to export the content (displaied in the terminal)
+Open the website enter localhost:3000/add-user: update the user info
+localhost:3000/add-component: create a component
+localhost:3000/update: update the component content
+localhost:3000/export-content: export the content (displaied in the terminal)
