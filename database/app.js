@@ -17,28 +17,38 @@ mongoose.connect(dbURI)
 // mongoose and mongo sandbox routes
 // create user
 // 1: room 2: user 3: component
-app.get('/add-user',(req,res)=>{
+app.get('/add-user',async (req,res)=>{
+    var rname = req.query.rname;
+    var rpassword = req.query.rpassword;
 
-    const user = new User({
-        user_ID: req.query.ruser_ID,
-        name: req.query.rname,
-        password: req.query.rpassword
-    });
-
-    user.save()
-        .then(r =>{
-            res.send(r)
-        })
-        .catch((e)=>{
-            console.log(e);
+    var userAccount = await User.findOne({name: rname})
+    if(userAccount == null){
+        const user = new User({
+            name: req.query.rname,
+            password: req.query.rpassword
         });
+
+        user.save()
+            .then(r =>{
+                res.send(r)
+            })
+            .catch((e)=>{
+                console.log(e);
+            });
+    }else{
+        if(rpassword === userAccount.password){
+            res.send("Valid");
+            return;
+        }
+    }
+
+    res.send("Invalid");
 })
 
 // create component
 app.get('/add-component', (req, res) => {
 
     const component = new Component({
-        component_ID:req.query.rcomponent_ID,
         component_type:'sticky-note',
         content:req.query.rcontent
     });
